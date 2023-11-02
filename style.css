@@ -36,6 +36,7 @@ header {
 }
 
 header h1 {
+
     
     font-size: 4em;
     color: white;
@@ -182,4 +183,9 @@ footer a {
 footer a:hover {
     text-decoration: underline;
     color: var(--cor2);
+}
+
+strong {
+    color: var(--cor3);
+    
 }
